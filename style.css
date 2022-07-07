@@ -214,6 +214,67 @@ body {
     margin: auto;
 }
 
+
+
+.tte h1 {
+    font: 100;
+    color: black;
+}
+
+.tte p {
+    font: 100;
+    color: black;
+}
+
+.tte2 {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+
+}
+
+.sub {
+
+    display: flex;
+    padding: 3%;
+    height: 20px;
+    margin: 2px;
+}
+
+.input {
+    border: none;
+    padding: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(231, 128, 128);
+
+    border: none;
+    color: whitesmoke;
+    font-weight: 700;
+
+    border: none;
+}
+
+.tte h1 {
+    color: rgb(236, 46, 84);
+}
+
+.tte h5 {
+    color: whitesmoke;
+    font: 30px;
+}
+
+.t3 {
+    text-align: center;
+    justify-content: center;
+    margin: 40px 0px 0px 0px;
+}
+
+
 .footer {
 
     background-color: black;
